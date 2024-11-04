@@ -1,0 +1,10 @@
+D:\visualcode_net\WindowsForms bài thực hành 4\WindowsForms bài thực hành 4\bin\Debug\WindowsForms bài thực hành 4.exe.config
+D:\visualcode_net\WindowsForms bài thực hành 4\WindowsForms bài thực hành 4\bin\Debug\WindowsForms bài thực hành 4.exe
+D:\visualcode_net\WindowsForms bài thực hành 4\WindowsForms bài thực hành 4\bin\Debug\WindowsForms bài thực hành 4.pdb
+D:\visualcode_net\WindowsForms bài thực hành 4\WindowsForms bài thực hành 4\obj\Debug\WindowsForms bài thực hành 4.csproj.AssemblyReference.cache
+D:\visualcode_net\WindowsForms bài thực hành 4\WindowsForms bài thực hành 4\obj\Debug\WindowsForms_bài_thực_hành_4.Form1.resources
+D:\visualcode_net\WindowsForms bài thực hành 4\WindowsForms bài thực hành 4\obj\Debug\WindowsForms_bài_thực_hành_4.Properties.Resources.resources
+D:\visualcode_net\WindowsForms bài thực hành 4\WindowsForms bài thực hành 4\obj\Debug\WindowsForms bài thực hành 4.csproj.GenerateResource.cache
+D:\visualcode_net\WindowsForms bài thực hành 4\WindowsForms bài thực hành 4\obj\Debug\WindowsForms bài thực hành 4.csproj.CoreCompileInputs.cache
+D:\visualcode_net\WindowsForms bài thực hành 4\WindowsForms bài thực hành 4\obj\Debug\WindowsForms bài thực hành 4.exe
+D:\visualcode_net\WindowsForms bài thực hành 4\WindowsForms bài thực hành 4\obj\Debug\WindowsForms bài thực hành 4.pdb
